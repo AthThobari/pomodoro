@@ -4,11 +4,11 @@ export const initialTimer = [
     display: 'Pomodoro'
   },
   {
-    value: 3,
+    value: 900,
     display: 'Short Break'
   },
   {
-    value: 11,
+    value: 500,
     display: 'Long Break'
   }
 ]
